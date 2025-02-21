@@ -1,0 +1,1 @@
+Após clonar repositorio e com o Docker instalado- apagar o .example do arquivo .env - dar comandos - npm install para instalar dependencias - docker compose up -d para rodar serviços no docker - npm run db:migrate para rodar o drizzle - npm run dev para rodar localmente
